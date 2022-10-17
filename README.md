@@ -1,0 +1,2 @@
+# AdsManager
+AdsManager for Admob
